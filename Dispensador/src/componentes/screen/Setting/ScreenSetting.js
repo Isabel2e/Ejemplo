@@ -21,7 +21,7 @@ const ScreenSetting = () => {
     <View>
       <Text style={{marginTop:20, alignContent:"center"}}>Autor: Maria Isabel Pablo Poblete</Text>
       <Button style={{marginTop:20, alignContent:"center"}} icon="logout" mode="contained" onPress={() => cerrarsesion()}>
-        Cerrar Seccion
+        Cerrar sesión
       </Button>
     </View>
   )
